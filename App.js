@@ -1,7 +1,4 @@
-import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, Image, TouchableOpacity, FlatList} from 'react-native';
-import {Picker} from '@react-native-picker/picker'
-import Slider from '@react-native-community/slider'
 import {useState} from 'react'
 import Lista from './components/Lista'
 
